@@ -1,5 +1,6 @@
 {
     "name": "anouar/fpdf",
+    "version": "1.0",
     "description": "Fpdf allows to generate PDF files",
     "license": "BSD-2-Clause",
     "name": "anouar/fpdf",
@@ -8,6 +9,7 @@
         "url": "git@github.com:xroot/laravel-fpdf.git",
         "reference": "master"
     },
+    "minimum-stability": "master",
     "authors": [
         {
             "name": "Anouar",
