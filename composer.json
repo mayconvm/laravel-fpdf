@@ -9,7 +9,8 @@
         "url": "git@github.com:xroot/laravel-fpdf.git",
         "reference": "master"
     },
-    "minimum-stability": "master",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Anouar",
@@ -17,7 +18,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
+        "php": ">=5.3",
         "illuminate/support": "~5.0"
     },
     "autoload": {
